@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+   background-color: rgba(235, 228, 188, 0.395);
+   font-size: large;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1{
+    color: darkslateblue;
+}
+#fr{
+    border-radius: 20px;
+    padding: 20px;
+    
+}
